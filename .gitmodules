@@ -1,3 +1,6 @@
 [submodule "Charlee-be"]
 	path = Charlee-be
 	url = https://github.com/EFA73/Charlee-be
+[submodule "Charlee-fe"]
+	path = Charlee-fe
+	url = https://github.com/EFA73/Charlee-fe
